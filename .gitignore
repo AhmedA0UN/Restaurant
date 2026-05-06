@@ -4,3 +4,4 @@ docs/
 
 src/*
 !src/model/
+!src/conf.properties
