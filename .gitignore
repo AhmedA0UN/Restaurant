@@ -1,9 +1,8 @@
 .vscode/
 bin/
-docs/
-
+docs/*
+!docs/mds
 
 src/conf.properties
-
 
 
