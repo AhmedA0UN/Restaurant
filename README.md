@@ -56,3 +56,7 @@ Prérequis : Java 8+, MySQL 5.7+ et le connecteur JDBC MySQL.
 ## Notes
 
 Ce dépôt contient aussi des fichiers de remise et de navigation pour faciliter la consultation du rapport et la présentation du projet.
+
+## Licence
+
+Ce projet est distribué sous licence MIT. Voir le fichier [LICENSE](LICENSE).

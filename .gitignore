@@ -2,7 +2,6 @@
 bin/
 docs/*
 !docs/mds
-!docs/cahier du charge
 
 src/conf.properties
 

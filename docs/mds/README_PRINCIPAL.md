@@ -349,10 +349,8 @@ mysql -u root -p mydatabase < database/schema.sql
 
 ## 📄 LICENCE
 
-**Projet Académique**  
-Module: Programmation Orientée Objet  
-Année: 2025-2026  
-Université: [École Spécifiée]
+**Licence MIT**  
+Voir le fichier [LICENSE](../../LICENSE) pour les termes complets.
 
 ---
 
