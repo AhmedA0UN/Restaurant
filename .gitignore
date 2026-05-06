@@ -2,4 +2,5 @@
 bin/
 docs/
 
-src/
+src/*
+!src/model/
