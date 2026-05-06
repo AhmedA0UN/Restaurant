@@ -2,9 +2,8 @@
 bin/
 docs/
 
-src/*
+
 src/conf.properties
 
 
 
-!src/controller/
