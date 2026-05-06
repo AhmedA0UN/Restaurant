@@ -3,5 +3,8 @@ bin/
 docs/
 
 src/*
-!src/model/
-!src/conf.properties
+src/conf.properties
+
+
+
+!src/util/
