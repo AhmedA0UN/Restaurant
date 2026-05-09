@@ -45,7 +45,7 @@ Prérequis : Java 8+, MySQL 5.7+ et le connecteur JDBC MySQL.
 1. Créer la base de données et importer `database/schema.sql`
 2. Vérifier `src/conf.properties`
 3. Compiler le projet
-4. Lancer la classe principale `view.Choisir`
+4. Lancer la classe principale `view.Choisir` ou directement la classe principale `App.Main`
 
 ## Identifiants de test
 
